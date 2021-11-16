@@ -1,6 +1,7 @@
 ---
+layout: default
 ---
-[Home](https://panda-workshop.github.io/){: .btn }
+<h1><b>The Organizers</b></h1>
 
 This workshop is organized by the two following Senior Researchers: 
 <ul>
