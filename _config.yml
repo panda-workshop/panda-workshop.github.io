@@ -5,3 +5,5 @@ plugins:
 
 title: PANDA Workshop
 description: First Workshop on Performance-Data Analytics and Data-Management
+
+theme: jekyll-theme-slate
