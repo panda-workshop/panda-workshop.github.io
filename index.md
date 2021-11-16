@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[Start](./start.md)
+[Start](./index.md)
 [Topics](./topics.md)
 [Next Workshop](./next.md)
 [About Us](./about.md)
