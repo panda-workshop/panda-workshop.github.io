@@ -1,12 +1,8 @@
 ---
 layout: default
 ---
-
-<button type="button" name="about" color = "green" class="btn" href="/about-us.md">About us</button>
-
 [About Us](./about.md){: .btn }
-[Link button](http://example.com/){: .btn .btn-blue }
-[Link button](http://example.com/){: .btn .btn-green }
+[Link button](http://example.com/){: .btn  }
 
 <h1><b>Workshop on Performance-Data Analytics and Data-Management**</b> (PANDA) </h1>
 
