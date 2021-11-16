@@ -2,6 +2,7 @@
 layout: default
 ---
 
+<button type="button" name="about" color = "green" class="btn" href="/about-us.md">About us</button>
 
 [About Us](./about-us.html){: .btn .btn-purple }
 [Link button](http://example.com/){: .btn .btn-blue }
