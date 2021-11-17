@@ -22,3 +22,7 @@ We are glad to provide an insight of:
 </ul>
 
 In addition to these topics, there will be many more various subjects to be dealt with.  
+
+<h2><b>WORKSHOP FORMAT</b></h2>
+
+PANDA will be a full-day workshop with a single (no parallel) session, with at least 1 keynote and up to 2 invited presentations. Submitted papers should follow the 2-column ACM conference publication style and not exceed 6 pages (including references). Submissions can be research papers, position papers, case studies, or experience reports addressing above topics. Accepted papers will be published in the ICPE companion.
