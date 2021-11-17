@@ -3,7 +3,9 @@ layout: default
 ---
 [Home](./index.md) | [Call For Papers](./callForPapers.md) | [Submission](./submission.md) | [Organization](./organization.md)
 
-<h1><b>Submissions</b>  </h1>
+<h2><b>Submission</b></h2>
+
+<h2><b>SUBMISSION TYPES</b></h2>
 
 The workshop invites three types of submissions:
 
@@ -14,9 +16,15 @@ The workshop invites three types of submissions:
 </ul>
 
 Submissions can be done via [insert Link].
+<i>Accepted papers will be published in the ICPE companion.</i>
 
+<h2><b>FORMAT</b></h2>
 
-<h1><b>Important Dates</b>  </h1>
+The format of the submissions should follow the ACM format of the companion conference, ICPE.
+
+All presented papers will have a good amount of time allocated for Q&A plus feedback. In addition, the presentation session will be wrapped up by a 10-15 min discussion. 
+
+<h2><b>IMPORTANT DATES</b></h2>
 
 | Title                        | Date |
 |------------------------------|------|
