@@ -18,9 +18,9 @@ Submissions can be done via [insert Link].
 
 <h1><b>Important Dates</b>  </h1>
 
-| Title                        | Date |   |   |   |
-|------------------------------|------|---|---|---|
-| Paper submission deadline    | TBA  |   |   |   |
-| Talk submission deadline:    | TBA  |   |   |   |
-| Author Notification (paper): | TBA  |   |   |   |
-| Final Manuscript:            | TBA  |   |   |   |
+| Title                        | Date |
+|------------------------------|------|
+| Paper submission deadline    | TBA  |
+| Talk submission deadline:    | TBA  |
+| Author Notification (paper): | TBA  |
+| Final Manuscript:            | TBA  |
