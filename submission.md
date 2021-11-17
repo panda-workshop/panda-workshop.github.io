@@ -21,6 +21,6 @@ Submissions can be done via [insert Link].
 | Title                        | Date |
 |------------------------------|------|
 | Paper submission deadline    | TBA  |
-| Talk submission deadline:    | TBA  |
-| Author Notification (paper): | TBA  |
-| Final Manuscript:            | TBA  |
+| Talk submission deadline     | TBA  |
+| Author Notification (paper)  | TBA  |
+| Final Manuscript             | TBA  |
