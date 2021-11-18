@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<h2><b>Submissions</b></h2>
+<h1><b>Submissions</b></h1>
 
 <h2><b>SUBMISSION TYPES</b></h2>
 

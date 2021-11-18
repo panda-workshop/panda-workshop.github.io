@@ -8,12 +8,12 @@ layout: default
 <li>
 <p><a href="https://se.informatik.uni-wuerzburg.de/software-engineering-group/staff/andre-bauer/"><b>André Bauer</b></a>, <i>Universität Würzburg, Germany</i></p>
 
-<p>His current research topics comprise DataOps, Software Engineering for Data Analytics, and sustainable Data Analytics. In addition, he is elected chair of the SPEC RG Predictive Data Analytics.</p>
+<p>Current research topics comprise DataOps, Software Engineering for Data Analytics, and sustainable Data Analytics. In addition, he is elected chair of the SPEC RG Predictive Data Analytics.</p>
 </li>
 <li>
 <p><b><a href="https://www.uni-ulm.de/in/omi/institut/persons/jd/">Jörg Domaschka</a></b>, <i>Universität Ulm, Germany</i></p>
 
-<p>His current research activities include systems engineering in distributed systems and infrastructures with the goal of streamlining the operation of infrastructures and applications. He is particularly interested in the performance of distributed storage backends. Besides working as a researcher, Jörg is busy with spinning-off benchANT, a benchmarking-as-a-Service company.</p>
+<p>Current research activities include systems engineering in distributed systems and infrastructures with the goal of streamlining the operation of infrastructures and applications. He is particularly interested in the performance of distributed storage backends. Besides working as a researcher, he also deals with spinning-off benchANT, a benchmarking-as-a-Service company.</p>
 </li>
 </ul>
 

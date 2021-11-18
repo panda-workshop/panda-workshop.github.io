@@ -2,7 +2,6 @@
 layout: default
 ---
 <h1><b>Workshop on Performance-Data Analytics and Data-Management</b> (PANDA) </h1>
-at [ICPE 2022](https://icpe2022.spec.org/)
 <p><i>Disclaimer: Due to the current situation, PANDA Workshop 2022 will be held fully virtually. For more information, please contact us at:  </i>
 <i><b>e-mail</b>.</i></p>
 
