@@ -2,7 +2,8 @@
 layout: default
 ---
 <h1><b>Workshop on Performance-Data Analytics and Data-Management</b> (PANDA) </h1>
-<img src="https://cdn.pixabay.com/photo/2017/03/08/14/20/flat-2126885_1280.png" alt="drawing" width="50" ALIGN="left"/> 
+<img src="https://cdn.pixabay.com/photo/2017/03/08/14/20/flat-2126885_1280.png" alt="drawing" width="50" ALIGN="left" style="margin-right: 20px; margin-bottom: 30px"/> 
+
 <b>Disclaimer</b>: Due to the current situation, PANDA Workshop 2022 will be held fully virtually. <br style="line-height:10px">
 There will be <b>no</b> on-site conference. For more information, please contact us at:  
 <b>e-mail</b>.
