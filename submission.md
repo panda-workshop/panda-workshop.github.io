@@ -1,9 +1,7 @@
 ---
 layout: default
 ---
-[Home](./index.md) | [Call For Papers](./callForPapers.md) | [Submission](./submission.md) | [Organization](./organization.md)
-
-<h2><b>Submission</b></h2>
+<h2><b>Submissions</b></h2>
 
 <h2><b>SUBMISSION TYPES</b></h2>
 

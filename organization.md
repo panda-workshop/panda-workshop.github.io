@@ -1,8 +1,6 @@
 ---
 layout: default
 ---
-| [Home](./index.md) | [Call For Papers](./callForPapers.md) | [Submission](./submission.md) | [Organization](./organization.md) |
-
 <h1><b>Organization</b></h1>
 
 <h2><b>ORGANIZATION COMMITTEE</b></h2>

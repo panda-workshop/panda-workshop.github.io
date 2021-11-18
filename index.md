@@ -1,9 +1,6 @@
 ---
 layout: default
 ---
-
-[Home](./index.md) | [Call For Papers](./callForPapers.md) | [Submission](./submission.md) | [Organization](./organization.md)
-
 <h1><b>Workshop on Performance-Data Analytics and Data-Management</b> (PANDA) </h1>
 at [ICPE 2022](https://icpe2022.spec.org/)
 <p><i>Disclaimer: Due to the current situation, PANDA Workshop 2022 will be held fully virtually. For more information, please contact us at:  </i>
@@ -30,4 +27,4 @@ at [ICPE 2022](https://icpe2022.spec.org/)
 <h2><b>WORKSHOP DATE</b></h2>
 
 The next workshop will take place fully virtually on Zoom. 
-The workshop day will be the **insert date**.
+<p>The workshop day will be the <b>insert date</b>.</p>
