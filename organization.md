@@ -13,10 +13,12 @@ layout: default
 </ul>
 </li>
 <li>
+<br>
 <p><b> <a href="https://www.uni-ulm.de/in/omi/institut/persons/jd/" style="color: #227da3">Jörg Domaschka</a></b><i>, Universität Ulm, Germany</i></p>
 <ul>
 <li>Current research topics: Systems Engineering in Distributed Systems and Infrastructures, Performance of Distributed Storage Backends</li>
 <li><i>joerg.domaschka@uni-ulm.de</i></li>
+</ul>
 </li>
 </ul>
 
