@@ -15,7 +15,7 @@ We are glad to provide an insight of:
 <li>Performance Forecasting and Anomaly Detection</li>
 <li>Methods for Data / Time Series Imputation</li>
 <li>Data Analytics Methods for Performance Benchmarking</li>
-<li>From benchmarking data to recommendations</li>
+<li>Benchmarking data plus recommendations</li>
 </ul>
 
 In addition to these topics, there will be many more various subjects to be dealt with.  

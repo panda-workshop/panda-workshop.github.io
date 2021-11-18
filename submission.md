@@ -14,13 +14,13 @@ The workshop invites three types of submissions:
 </ul>
 
 Submissions can be done via [insert Link].
-<i>Accepted papers will be published in the ICPE companion.</i>
+<p><i>Accepted papers will be published in the ICPE companion.</i></p>
 
 <h2><b>FORMAT</b></h2>
 
-The format of the submissions should follow the ACM format of the companion conference, ICPE.
+The submission format should follow the ACM format of the companion conference ICPE.
 
-All presented papers will have a good amount of time allocated for Q&A plus feedback. In addition, the presentation session will be wrapped up by a 10-15 min discussion. 
+All presented papers will have a good amount of time allocated for Q&A plus feedback. Additionally, each presentation session will be wrapped up by a 10-15 min discussion. 
 
 <h2><b>IMPORTANT DATES</b></h2>
 
@@ -30,3 +30,5 @@ All presented papers will have a good amount of time allocated for Q&A plus feed
 | Talk submission deadline     | TBA  |
 | Author Notification (paper)  | TBA  |
 | Final Manuscript             | TBA  |
+
+<p><i>All deadlines are 11:59 pm AoE (Anywhere on Earth).</i></p>
