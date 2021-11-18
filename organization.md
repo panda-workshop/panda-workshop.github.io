@@ -12,8 +12,8 @@ layout: default
 <li><i>andre.bauer@uni-wuerzburg.de</i></li>
 </ul>
 </li>
-<li>
 <br>
+<li>
 <p><b> <a href="https://www.uni-ulm.de/in/omi/institut/persons/jd/" style="color: #227da3">Jörg Domaschka</a></b><i>, Universität Ulm, Germany</i></p>
 <ul>
 <li>Current research topics: Systems Engineering in Distributed Systems and Infrastructures, Performance of Distributed Storage Backends</li>
