@@ -8,9 +8,9 @@ layout: default
 The workshop invites three types of submissions:
 
 <ul>
-  <li><b>Full-papers</b>: x pages including references</li>
-  <li><b>Short-papers</b>: y pages including references</li>
-  <li><b>Talk only</b>: 1-2 pages, not included in the proceedings</li>
+  <li><b>Full-papers</b>: 6 pages including references</li>
+  <li><b>Short-papers</b>: 4 pages including references</li>
+  <li><b>Talk only</b>: 1 page only, not included in the proceedings</li>
 </ul>
 
 Submissions can be done via [insert Link].
@@ -18,17 +18,16 @@ Submissions can be done via [insert Link].
 
 <h2><b>FORMAT</b></h2>
 
-The submission format should follow the ACM format of the companion conference ICPE.
-
+<p>The format of submitted papers should follow the 2-column ACM conference publication style and not exceed 6 pages (including references). </p>
 All presented papers will have a good amount of time allocated for Q&A plus feedback. Additionally, each presentation session will be wrapped up by a 10-15 min discussion. 
 
 <h2><b>IMPORTANT DATES</b></h2>
 
-| Title                        | Date |
-|------------------------------|------|
-| Paper submission deadline    | TBA  |
-| Talk submission deadline     | TBA  |
-| Author Notification (paper)  | TBA  |
-| Final Manuscript             | TBA  |
+| Title                       | Date             |
+|-----------------------------|------------------|
+| Paper submission deadline   | January 20, 2022 |
+| Talk submission deadline    | January 25, 2022 |
+| Author Notification (paper) |  Mid of February |
+| Final Manuscript            |      **TBA**     |
 
 <p><i>All deadlines are 11:59 pm AoE (Anywhere on Earth).</i></p>

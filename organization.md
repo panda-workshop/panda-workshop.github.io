@@ -25,6 +25,15 @@ layout: default
 <h2><b>PROGRAM COMMITTEE</b></h2>
 <ul>
 <li>
+<p> <b>André Bauer</b><i>, Universität Würzburg, Germany</i></p>
+</li>
+<li>
+<p> <b>Jörg Domaschka</b><i>, Universität Ulm, Germany</i></p>
+</li>
+<li>
+<p> <b>Lukas Beierlieb</b><i>, Universität Würzburg, Germany</i></p>
+</li>
+<li>
 <p> <b>Sacheendra Talluri</b><i>, Vrije Universiteit Amsterdam, Netherlands</i></p>
 </li>
 <li>
