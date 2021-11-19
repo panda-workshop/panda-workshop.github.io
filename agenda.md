@@ -5,8 +5,8 @@ layout: default
 
 <img src="https://cdn.pixabay.com/photo/2017/03/08/14/20/flat-2126885_1280.png" alt="drawing" width="60" ALIGN="left" style="margin-right: 20px; margin-bottom: 20px"/> 
 
-<b>TO BE ANNOUNCED</b> 
-<p>For more information, please contact us at: <b>e-mail</b>.</p>
+<b>TO BE ANNOUNCED</b><br>For more information, please contact us at: <b>e-mail</b>.
+
 
 
 <h2><b>PROGRAM</b></h2>
@@ -17,7 +17,8 @@ The workshop is expected to take place on the **9th or 10th of April 2022**.
 
 | Time | Session | Topic |
 |------|---------|-------|
-<!--| TBA  | TBA     | TBA   |-->
+
+
 
 <h2><b>ACCEPTED PAPERS</b></h2>
 

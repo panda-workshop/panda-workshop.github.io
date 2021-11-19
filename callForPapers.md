@@ -21,7 +21,4 @@ We are glad to provide an insight of:
 In addition to these topics, there will be many more various subjects to be dealt with.  
 <p>Submissions can be research papers, position papers, case studies, or experience reports addressing above topics. </p>
 
-<!--<h2><b>WORKSHOP FORMAT</b></h2>
 
-Submitted papers should follow the 2-column ACM conference publication style and not exceed 6 pages (including references). Submissions can be research papers, position papers, case studies, or experience reports addressing above topics. 
-<p><i>Accepted papers will be published in the ICPE companion.</i></p><<>>
