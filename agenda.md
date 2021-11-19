@@ -17,8 +17,7 @@ The workshop is expected to take place on the **9th or 10th of April 2022**.
 
 | Time | Session | Topic |
 |------|---------|-------|
-
-
+|      |         |       |
 
 <h2><b>ACCEPTED PAPERS</b></h2>
 
