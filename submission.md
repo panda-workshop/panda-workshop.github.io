@@ -13,7 +13,7 @@ The workshop invites three types of submissions:
   <li><b>Talk only</b>: 1 page only, not included in the proceedings</li>
 </ul>
 
-Submissions can be done via [insert Link].
+Submissions can be done via <a href="https://easychair.org/conferences/?conf=panda22" style="color: #227da3">EasyChair</a>.
 <p><i>Accepted papers will be published in the ICPE companion.</i></p>
 
 <h2><b>FORMAT</b></h2>
