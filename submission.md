@@ -25,8 +25,8 @@ All presented papers will have a good amount of time allocated for Q&A plus feed
 
 | Title                       | Date             |
 |-----------------------------|------------------|
-| Paper submission deadline   | January 20, 2022 |
-| Talk submission deadline    | January 25, 2022 |
+| Abstract submission deadline   | January 20, 2022 |
+| Paper/Talk submission deadline    | January 25, 2022 |
 | Author Notification (paper) |  Mid of February |
 | Final Manuscript            |      **TBA**     |
 
