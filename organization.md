@@ -42,7 +42,7 @@ layout: default
 <li>
 <p> <b>Martin Sträßer</b><i>, Universität Würzburg, Germany</i></p>
 </li>
-To contact the chairs, you can email: <b>Insert e-mail</b>
+To contact the chairs, you can email: <a href ="panda22@easychair.org" style="color: #227da3"> panda22@easychair.org </a>
 </ul>
 
 
