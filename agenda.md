@@ -5,7 +5,7 @@ layout: default
 
 <img src="https://cdn.pixabay.com/photo/2017/03/08/14/20/flat-2126885_1280.png" alt="drawing" width="60" ALIGN="left" style="margin-right: 20px; margin-bottom: 20px"/> 
 
-<b>TO BE ANNOUNCED</b><br>For more information, please contact us at: <b>e-mail</b>.
+<b>TO BE ANNOUNCED</b><br>For more information, please contact us at: <i style="color: #2db04b"> panda22@easychair.org </i>
 
 
 
