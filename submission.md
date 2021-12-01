@@ -9,7 +9,7 @@ The workshop invites three types of submissions:
 
 <ul>
   <li><b>Full-papers</b>: 6 pages including references</li>
-  <li><b>Short-papers</b>: 4 pages including references</li>
+  <li><b>Short-papers</b>: 3 pages including references</li>
   <li><b>Talk only</b>: 1 page only, not included in the proceedings</li>
 </ul>
 
