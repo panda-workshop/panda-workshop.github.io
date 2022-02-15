@@ -30,4 +30,4 @@ For more information, please contact us at: <i style="color: #2db04b"> panda22@e
 <h2><b>WORKSHOP DATE</b></h2>
 
 The next workshop will take place fully virtually on Zoom. 
-<p>The workshop day is expected to be the <b>9th or 10th of April 2022</b>.</p>
+<p>The workshop day is expected to be the <b>11th of April 2022 at 7pm CEST</b>.</p>
