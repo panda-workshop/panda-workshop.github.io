@@ -11,7 +11,7 @@ layout: default
 
 <h2><b>PROGRAM</b></h2>
 
-The workshop is expected to take place on the **9th or 10th of April 2022**. 
+The workshop will take place at the annual meeting of the <a href="https://research.spec.org/working-groups/rg-predictive-data-analytics/" style="color:#227da3">RG Predictive Data Analytics</a> at the ICPE on the **11th of April 2022 at 7pm CEST**. 
 <p>PANDA is planned to be a full-day workshop with a single session. This workshop will be part of the <a href="https://icpe2022.spec.org/" style="color:#227da3">ICPE 2022</a> and take place <b>virtually</b>. </p>
 <p>The following is planned to be our program schedule:</p>
 
@@ -19,8 +19,8 @@ The workshop is expected to take place on the **9th or 10th of April 2022**.
 |------|---------|-------|
 |      |         |       |
 
-<h2><b>ACCEPTED PAPERS</b></h2>
+<!--<h2><b>ACCEPTED PAPERS</b></h2>
 
-<b>To Be Announced</b>
+<b>To Be Announced</b>-->
 
 
