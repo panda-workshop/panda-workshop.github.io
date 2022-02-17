@@ -27,7 +27,7 @@ All presented papers will have a good amount of time allocated for Q&A plus feed
 |-----------------------------|------------------|
 | Abstract submission deadline   | January 31, 2022 |
 | Paper/Talk submission deadline    | January 31, 2022 |
-| Author Notification (paper) |  Mid of February |
+| Author Notification (paper) |  February 10, 2022 |
 | Final Manuscript            |      **TBA**     |
 
 <p><i>All deadlines are 11:59 pm AoE (Anywhere on Earth).</i></p>
