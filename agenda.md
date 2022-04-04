@@ -14,7 +14,7 @@ The workshop will take place at the annual meeting of the <a href="https://resea
 
 | Time  | Topic                                                                                                                 |
 |-------|-----------------------------------------------------------------------------------------------------------------------|
-| 19:00 | Gathering & Welcome (André Bauer, Uni Würzburg)                                                                       |
+| 19:00 | Gathering and welcome (André Bauer, Uni Würzburg)                                                                       |
 | 19:05 | Keynote: Modeling and optimization expand results of load testing and benchmarking (Boris Zibitsker PhD, CEO BEZNext) |
 | 19:35 | Questions and discussion regarding the keynote                                                                        |
 | 19:50 | Introduction of the SPEC RG Predictive Data Analytics (André Bauer, Uni Würzburg)                                     |
