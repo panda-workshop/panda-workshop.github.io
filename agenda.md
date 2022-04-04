@@ -26,11 +26,11 @@ The workshop will take place at the annual meeting of the <a href="https://resea
 
 <h2><b>KEYNOTE: Modeling and optimization expand results of load testing and benchmarking</b></h2>
 By <i>Boris Zibitsker PhD, <a href="https://www.beznext.com/company/" style="color:#227da3">CEO BEZNext</a>, bzibitsker@beznext.com</i>
-<p style="text-align: justified">For most organizations, the journey to the cloud is well underway. Unfortunately, many cloud migration decisions do not have realistic performance and financial expectations, leading to unwelcome performance and financial surprises.</p>
+<p style="text-align: justify;">For most organizations, the journey to the cloud is well underway. Unfortunately, many cloud migration decisions do not have realistic performance and financial expectations, leading to unwelcome performance and financial surprises.</p>
  
-<p style="text-align: justified">Many organizations rely on Load Testing, TPC benchmarks, and customized Proof of Concept tests to evaluate options, including selecting the right cloud data platform, migrating to the cloud, organizing dynamic capacity management, and optimizing DevOps decisions. </p>
+<p style="text-align: justify;">Many organizations rely on Load Testing, TPC benchmarks, and customized Proof of Concept tests to evaluate options, including selecting the right cloud data platform, migrating to the cloud, organizing dynamic capacity management, and optimizing DevOps decisions. </p>
  
-<p style="text-align: justified">Benchmark tests provide a lot of valuable information; however, after spending a lot of time and effort, organizations can’t find the answer to critical business questions like:
+<p style="text-align: justify;">Benchmark tests provide a lot of valuable information; however, after spending a lot of time and effort, organizations can’t find the answer to critical business questions like:
 <ul>
 <li>	What minimum configuration and budget are needed to continuously meet the business service level goals on different cloud platforms?</li>
 <li>	How to organize data load in the cloud to finish data load during the acceptable batch window?</li>
@@ -39,7 +39,7 @@ By <i>Boris Zibitsker PhD, <a href="https://www.beznext.com/company/" style="col
  </ul>
 This presentation reviews how our modeling and optimization approach based on iterative queueing network models and gradual optimization complement the benchmark tests. We will review several case studies, including cloud data platform selection, migration optimization, dynamic capacity management, and DevOps decisions optimization. </p>
  
-<p style="text-align: justified">Our unique approach includes:  
+<p style="text-align: justify;">Our unique approach includes:  
 <ul>
 <li>	Automated and continuous, closed-loop Performance and Financial Governance </li>
 <li>	A combination of Iterative Queueing Network Modeling and Gradient optimization for evaluation options and setting realistic expectations</li>
