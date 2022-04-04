@@ -14,12 +14,13 @@ layout: default
 The workshop will take place at the annual meeting of the <a href="https://research.spec.org/working-groups/rg-predictive-data-analytics/" style="color:#227da3">SPEC RG Predictive Data Analytics Working Group</a> at the <a href="https://icpe2022.spec.org/" style="color:#227da3">ICPE 2022</a> on the **11th of April 2022 at 7pm CEST**. 
 <p>The following is planned to be our program schedule:</p>
 
-|  Time |                                                         Topic                                                         |
-|:-----:|:---------------------------------------------------------------------------------------------------------------------:|
+| Time  | Topic                                                                                                                 |
+|-------|-----------------------------------------------------------------------------------------------------------------------|
 | 19:00 | Gathering & Welcome (André Bauer, Uni Würzburg)                                                                       |
 | 19:05 | Keynote: Modeling and optimization expand results of load testing and benchmarking (Boris Zibitsker PhD, CEO BEZNext) |
 | 19:35 | Questions and discussion regarding the keynote                                                                        |
 | 19:50 | Introduction of the SPEC RG Predictive Data Analytics (André Bauer, Uni Würzburg)                                     |
 | 20:00 | Open discussions                                                                                                      |
+| 20:30 | END                                                                                                                   |
 
 <i>All times are based on CEST.</i>
