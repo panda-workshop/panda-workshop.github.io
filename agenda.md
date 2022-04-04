@@ -3,9 +3,9 @@ layout: default
 ---
 <h1><b>Agenda</b></h1>
 
-<img src="https://cdn.pixabay.com/photo/2017/03/08/14/20/flat-2126885_1280.png" alt="drawing" width="60" ALIGN="left" style="margin-right: 20px; margin-bottom: 20px"/> 
+<!--<img src="https://cdn.pixabay.com/photo/2017/03/08/14/20/flat-2126885_1280.png" alt="drawing" width="60" ALIGN="left" style="margin-right: 20px; margin-bottom: 20px"/> 
 
-<!--<b>TO BE ANNOUNCED</b><br>For more information, please contact us at: <i style="color: #2db04b"> panda22@easychair.org </i>-->
+<b>TO BE ANNOUNCED</b><br>For more information, please contact us at: <i style="color: #2db04b"> panda22@easychair.org </i>-->
 
 <h2><b>PROGRAM</b></h2>
 
