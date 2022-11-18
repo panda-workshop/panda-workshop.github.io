@@ -3,9 +3,13 @@ layout: default
 ---
 <h1><b>Agenda</b></h1>
 
+More information will be added soon.
+
 <!--<img src="https://cdn.pixabay.com/photo/2017/03/08/14/20/flat-2126885_1280.png" alt="drawing" width="60" ALIGN="left" style="margin-right: 20px; margin-bottom: 20px"/> 
 
 <b>TO BE ANNOUNCED</b><br>For more information, please contact us at: <i style="color: #2db04b"> panda22@easychair.org </i>-->
+
+<!--
 
 <h2><b>PROGRAM</b></h2>
 
@@ -46,3 +50,5 @@ This presentation reviews how our modeling and optimization approach based on it
 <li>	Automated verification of performance and financial results.</li>
 </ul>
 It reduces the risk of performance and financial surprises and enables closer collaboration between business, financial, and IT leaders. </p>
+
+--> 
