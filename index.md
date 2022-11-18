@@ -18,7 +18,7 @@ For more information, please contact us at: <i style="color: #2db04b"> panda22@e
 
 <h2><b>GOALS</b></h2>
 
-<p style="text-align: justify;">This workshop seeks to bring together researchers and practitioners from the domains of performance engineering, data analytics, data management, and system automation to foster the growth of an active community to advance the methods for automated performance engineering. We further seek to extend the number of available OpenAccess data sets of systems performance data.  </p>
+<p style="text-align: justify;">This workshop seeks to bring together researchers and practitioners from the domains of performance engineering, data analytics, data management, and system automation to foster the growth of an active community to advance the methods for automated performance engineering. </p>
     
 <p >These domains include 
 <ul>
