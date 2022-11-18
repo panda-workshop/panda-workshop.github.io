@@ -12,7 +12,7 @@ We are glad to provide an insight of:
 <li>Methods for assessing and ensuring the quality of benchmarking/performance measurements data</li>
 <li>Approaches for Cross-layer (from hardware to software) performance analytics</li>
 <li>Advanced Data Management Strategies</li>
-<li>Performance Forecasting and Anomaly Detection</li>
+<li>Performance Modelling, Performance Forecasting, and Anomaly Detection</li>
 <li>Methods for Data / Time Series Imputation</li>
 <li>Data Analytics Methods for Performance Benchmarking</li>
 <li>Benchmarking data plus recommendations</li>
