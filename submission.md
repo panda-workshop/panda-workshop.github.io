@@ -3,6 +3,10 @@ layout: default
 ---
 <h1><b>Submissions</b></h1>
 
+More information will be added soon!
+
+<!--
+
 <h2><b>SUBMISSION TYPES</b></h2>
 
 The workshop invites three types of submissions:
@@ -31,3 +35,5 @@ All presented papers will have a good amount of time allocated for Q&A plus feed
 | Final Manuscript            |      **TBA**     |
 
 <p><i>All deadlines are 11:59 pm AoE (Anywhere on Earth).</i></p>
+
+--> 
