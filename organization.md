@@ -23,7 +23,7 @@ layout: default
 </ul>
 <ul>
 <li>
-<p> <a href="https://cs.uchicago.edu/people/andre-bauer/" style="color: #227da3"><b>Mark Leznik</b></a><i>, Universität Ulm, Germany</i></p>
+<p> <a href="https://www.uni-ulm.de/in/omi/institut/persons/mark-leznik/" style="color: #227da3"><b>Mark Leznik</b></a><i>, Universität Ulm, Germany</i></p>
 <ul>
 <li>Current research topics: TIme Series Synthesis, Time Series Measures, Anomaly Detection</li>
 <li><i>mark.leznik@uni-ulm.de</i></li>
