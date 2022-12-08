@@ -43,7 +43,7 @@ layout: default
   
 More members will be added soon.
 
-To contact the chairs, you can email: <i style="color: #2db04b"> panda22@easychair.org </i>
+To contact the chairs, you can email: <i style="color: #2db04b"> panda2023@easychair.org </i>
 
 
 
