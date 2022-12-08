@@ -3,11 +3,7 @@ layout: default
 ---
 <h1><b>Submissions</b></h1>
 
-More information will be added soon!
-
-<!--
-
-<h2><b>SUBMISSION TYPES</b></h2>
+<h2><b>Submission Types</b></h2>
 
 The workshop invites three types of submissions:
 
@@ -22,18 +18,18 @@ Submissions can be done via <a href="https://easychair.org/conferences/?conf=pan
 
 <h2><b>FORMAT</b></h2>
 
-<p>The format of submitted papers should follow the 2-column ACM conference publication style and not exceed 6 pages (including references). </p>
+<p>The format of submitted papers should follow the 2-column ACM conference publication style and not exceed 8 or 4 pages (including references). </p>
 All presented papers will have a good amount of time allocated for Q&A plus feedback. Additionally, each presentation session will be wrapped up by a 10-15 min discussion. 
 
 <h2><b>IMPORTANT DATES</b></h2>
 
 | Title                       | Date             |
 |-----------------------------|------------------|
-| Abstract submission deadline   | January 31, 2022 |
-| Paper/Talk submission deadline    | January 31, 2022 |
-| Author Notification (paper) |  February 10, 2022 |
-| Final Manuscript            |      **TBA**     |
+| Abstract submission deadline   | January 17, 2023 |
+| Paper/Talk submission deadline    | January 31, 2023 |
+| Author notification (paper) |  February 10, 2023 |
+| Final manuscript            |      March 6, 2023     |
+| Workshop day            |      April 15 or 16, 2023     |
 
 <p><i>All deadlines are 11:59 pm AoE (Anywhere on Earth).</i></p>
 
---> 
