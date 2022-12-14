@@ -28,7 +28,7 @@ All presented papers will have a good amount of time allocated for Q&A plus feed
 | Abstract submission deadline   | January 17, 2023 |
 | Paper/Talk submission deadline    | January 31, 2023 |
 | Author notification (paper) |  February 10, 2023 |
-| Final manuscript            |      March 6, 2023     |
+| Final manuscript            |      February 20, 2023     |
 | Workshop day            |      April 15 or 16, 2023     |
 
 <p><i>All deadlines are 11:59 pm AoE (Anywhere on Earth).</i></p>
