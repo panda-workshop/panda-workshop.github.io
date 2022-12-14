@@ -35,4 +35,4 @@ For more information, please contact us at: <i style="color: #2db04b"> panda22@e
 
 <h2><b>WORKSHOP DATE</b></h2>
 
-April 15 or 16, 2023.
+April 15 or 16, 2023. The workshop will be held in person. 
