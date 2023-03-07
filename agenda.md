@@ -3,7 +3,7 @@ layout: default
 ---
 <h1><b>Agenda</b></h1>
 
-More information will be added soon.
+The workshop was canceled!
 
 <!--<img src="https://cdn.pixabay.com/photo/2017/03/08/14/20/flat-2126885_1280.png" alt="drawing" width="60" ALIGN="left" style="margin-right: 20px; margin-bottom: 20px"/> 
 
