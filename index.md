@@ -7,7 +7,7 @@ layout: default
 <img src="https://cdn.pixabay.com/photo/2017/03/08/14/20/flat-2126885_1280.png" alt="drawing" width="85" ALIGN="left" style="margin-right: 20px; margin-bottom: 20px"/> 
 
 
-<br style="line-height:5px"> </br> <b>Disclaimer</b>: The workshop was canceled! <br style="line-height:25px"> </br>
+<br style="line-height:10px"> <b>Disclaimer</b>: The workshop was canceled! <br style="line-height:30px"> 
 
 
 <h2><b>OVERVIEW</b></h2>
